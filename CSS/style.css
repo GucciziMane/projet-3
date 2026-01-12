@@ -632,6 +632,7 @@ footer ul {
 
     .filter-button {
         width: 100%;
+        min-width: 162.5px;
     }
 
     .filter-list {
